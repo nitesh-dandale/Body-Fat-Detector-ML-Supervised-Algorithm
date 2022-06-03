@@ -1,6 +1,8 @@
 
 # Body-Fat-Predictor
 
+Deployed Link : https://bodyfat-calculator.herokuapp.com/
+
 The Body Fat Calculator can be used to estimate your total body 
 fat based on specific measurements.
 
